@@ -1,0 +1,6 @@
+{
+  "name": "Maison Dorée Artisan Bakery",
+  "description": "Handcrafted artisan sourdough breads, custom celebration cakes, and French pastries baked fresh daily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
